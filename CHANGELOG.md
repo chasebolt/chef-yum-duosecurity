@@ -1,5 +1,10 @@
-# yum-duosecurity Cookbook CHANGELOG
-This file is used to list changes made in each version of the yum-duosecurity cookbook.
+## v0.1.2
+- easier management of yum resource
+- add managed attrib
+- update README
+
+## v0.1.1
+- updating supermarket urls
 
 ## v0.1.0
-Initial release
+- initial release
