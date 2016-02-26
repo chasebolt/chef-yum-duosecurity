@@ -1,5 +1,5 @@
 # yum-duosecurity Cookbook
-[![Build Status](https://travis-ci.org/chasebolt/yum-duosecurity.svg?branch=master)](http://travis-ci.org/chasebolt/yum-duosecurity) [![Cookbook Version](https://img.shields.io/cookbook/v/yum-duosecurity.svg)](https://supermarket.chef.io/cookbooks/yum-duosecurity)
+[![Build Status](https://travis-ci.org/chasebolt/chef-yum-duosecurity.svg?branch=master)](http://travis-ci.org/chasebolt/chef-yum-duosecurity) [![Cookbook Version](https://img.shields.io/cookbook/v/yum-duosecurity.svg)](https://supermarket.chef.io/cookbooks/yum-duosecurity)
 
 The yum-duosecurity cookbook takes over management of the default repositoryids used with the official duosecurity repositories. It allows attribute manipulation of the `duosecurity` yum channel.
 
