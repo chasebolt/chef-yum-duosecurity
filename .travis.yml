@@ -1,5 +1,3 @@
-rvm: 2.2
-
 sudo: required
 
 addons:
@@ -10,8 +8,6 @@ addons:
       - chefdk
 
 install: echo "skip bundle install"
-
-services: docker
 
 # Ensure we make ChefDK's Ruby the default
 before_script:
