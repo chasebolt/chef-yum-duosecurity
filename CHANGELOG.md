@@ -1,3 +1,6 @@
+## v0.1.6
+- releasever requires centos-release pkg, removing this dependency.
+
 ## v0.1.5
 - updating source_url and gems
 
