@@ -1,3 +1,6 @@
+## v0.1.7
+- removing yum dependecy
+
 ## v0.1.6
 - releasever requires centos-release pkg, removing this dependency.
 
